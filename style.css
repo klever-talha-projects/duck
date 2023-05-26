@@ -27690,6 +27690,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         }
 
         .mint__item {
+            justify-content: center;
             background: var(--tg-common-color-white);
             border-radius: 24px;
             box-shadow: 0 3px 8px -1px rgba(0, 0, 0, .08);
